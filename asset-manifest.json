@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Haptik/static/css/main.451824ed.chunk.css",
+    "main.js": "/Haptik/static/js/main.45720992.chunk.js",
+    "main.js.map": "/Haptik/static/js/main.45720992.chunk.js.map",
+    "runtime-main.js": "/Haptik/static/js/runtime-main.19ba4603.js",
+    "runtime-main.js.map": "/Haptik/static/js/runtime-main.19ba4603.js.map",
+    "static/css/2.f2512455.chunk.css": "/Haptik/static/css/2.f2512455.chunk.css",
+    "static/js/2.aeb2122a.chunk.js": "/Haptik/static/js/2.aeb2122a.chunk.js",
+    "static/js/2.aeb2122a.chunk.js.map": "/Haptik/static/js/2.aeb2122a.chunk.js.map",
+    "static/js/3.b4e0291f.chunk.js": "/Haptik/static/js/3.b4e0291f.chunk.js",
+    "static/js/3.b4e0291f.chunk.js.map": "/Haptik/static/js/3.b4e0291f.chunk.js.map",
+    "index.html": "/Haptik/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Haptik/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.451824ed.chunk.css.map": "/Haptik/static/css/main.451824ed.chunk.css.map",
+    "static/js/2.aeb2122a.chunk.js.LICENSE.txt": "/Haptik/static/js/2.aeb2122a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Haptik/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ba4603.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.aeb2122a.chunk.js",
+    "static/css/main.451824ed.chunk.css",
+    "static/js/main.45720992.chunk.js"
+  ]
+}
